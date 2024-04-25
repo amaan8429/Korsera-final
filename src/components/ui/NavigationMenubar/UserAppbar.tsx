@@ -44,6 +44,7 @@ export default function UserAppbar() {
           <Button
             variant="default"
             onClick={() => {
+              router.push("/");
               signOut();
             }}
           >
