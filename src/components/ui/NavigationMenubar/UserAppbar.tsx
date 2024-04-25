@@ -40,7 +40,7 @@ export default function UserAppbar() {
         >
           My Courses
         </Button>
-        <Link href="/l">
+        <Link href="/">
           <Button
             variant="default"
             onClick={() => {
