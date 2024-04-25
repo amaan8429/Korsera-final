@@ -64,10 +64,14 @@ export default function RegistrationForm() {
       const response = await axios.post("/api/users/register", data);
       console.log("response", response.data.data.success);
       if (data.role === "admin") {
-        toast.success("Admin created successfully");
+        toast.success(
+          "Admin created successfully! Sorry, we can't redirect you to dashboard.Please login to continue to dashboard."
+        );
         router.push("/ad/dashboard");
       } else {
-        toast.success("User created successfully");
+        toast.success(
+          "User created successfully! Sorry, we can't redirect you to dashboard.Please login to continue to dashboard."
+        );
         router.push("/us/dashboard");
       }
       // toast success

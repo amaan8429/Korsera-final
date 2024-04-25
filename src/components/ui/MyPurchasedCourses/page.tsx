@@ -68,7 +68,7 @@ export default function MyPurchasedCoursesComponent({
         textAlign={"start"}
         color={"primary"}
       >
-        Welcome to Loom , {name} , Here are your Purchased Courses
+        Welcome to Korsera , {name} , Here are your Purchased Courses
       </Typography>
       <hr
         style={{
