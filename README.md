@@ -1,74 +1,69 @@
-# Udemy Clone Project - Todo List
+# Korsera (Educational site project made for [30DaysCoding](https://twitter.com/30dayscoding) by [Aryan Singh](https://twitter.com/Singh1Aryan))
 
-## Project Description
+## Overview
 
-This project is a clone of Udemy, developed using Next.js and Tailwind CSS.
+Korsera is a Nextjs project of a educational site (something like a course selling website)
 
-## Features to add
+## Live Link (Deployed on vercel)
 
-### 1. Navbar
+https://korsera-final.vercel.app/
 
-- [ ] Implement Twitter-style CSS
-- [ ] Ensure hydration for better performance
+## Build in Public
 
-### 2. Data Fetching
+### Link of the posts related to the progress of the project on my [Twitter](https://x.com/amaan8429)
 
-- [ ] Integrate SWR for improved data fetching
+1. Got notfied late about the Project so no Day 1
+2. [Day 2](https://x.com/amaan8429/status/1782147051188637767)
+3. [Day 3](https://x.com/amaan8429/status/1782820223877599709)
+4. [Day 4](https://x.com/amaan8429/status/1783729098969534627)
+5. [Day 5](https://x.com/amaan8429/status/1783790949061329284)
 
-### 3. App Structure Refinement
+## Installation
 
-- [ ] Refactor and finalize app structure
-- [ ] Ensure code modularity and scalability
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run `npm install` to install the dependencies.
+4. Set up the env file as detailed below
+5. Run `npm run dev` to run the project on your localhost
 
-### 4. Data Validation
+## Dependencies
 
-- [ ] Incorporate Zod for robust data validation
+- [**Next.js**](https://nextjs.org): Framework for React.
+- [**NextAuth.js**](https://next-auth.js.org): Authentication library for Next.js.
+- [**MongoDB**](https://www.mongodb.com): NoSQL database for storing user data.
+- [**Mongoose**](https://mongoosejs.com): MongoDB object modeling for Node.js.
+- [**axios**](https://axios-http.com): HTTP client for making requests.
+- [**bcryptjs**](https://github.com/dcodeIO/bcrypt.js): Library for hashing passwords.
+- [**jsonwebtoken**](https://github.com/auth0/node-jsonwebtoken): Library for creating JSON Web Tokens.
+- [**React**](https://reactjs.org): JavaScript library for building user interfaces.
+- [**Tailwind CSS**](https://tailwindcss.com): Utility-first CSS framework.
+- [**Emotion**](https://emotion.sh): Library for styling components with CSS-in-JS.
+- [**Material-UI**](https://material-ui.com): React components library.
+- [**framer-motion**](https://www.framer.com/motion/): Library for creating animations.
+- [**react-hook-form**](https://react-hook-form.com): Library for form validation.
+- [**react-hot-toast**](https://react-hot-toast.com): Library for toast notifications.
+- [**Radix UI**](https://radix-ui.com): Library for building accessible UI components.
+- [**Lucide Icons**](https://lucide.netlify.app): Library for SVG icons.
 
-### 5. Session Management
+## Setting up the .env file
 
-- [ ] Resolve session-related issues for smoother user experience
+Create a `.env` file in the root directory of the project. Add the following environment variables:
 
-### 6. Loading Optimization
+```
+NODE_ENV=development
+MONGODB_URI=<Your MongoDB Connection URI>
+NEXTAUTH_URL=<Your NextAuth.js Base URL>
+NEXTAUTH_SECRET=<Your NextAuth.js Secret>
+```
 
-- [ ] Add loader component for enhanced user feedback
-- [ ] Implement setTimeout for loader to improve user experience
+Ensure you replace the placeholder values with your actual configuration.
 
-### 7. Admin Panel
+## How to Contribute
 
-- [ ] Develop UI for adding courses
-- [ ] Implement admin functionalities
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Submit a pull request.
 
-### 8. Email Integration
-
-- [ ] Setup email functionalities
-  - [ ] Course addition notification
-  - [ ] Purchase course confirmation
-  - [ ] Account creation verification
-
-### 9. Payment Gateway
-
-- [ ] Integrate Stripe for secure payment processing
-
-### 10. Video Calling Feature
-
-- [ ] Implement Webrtc call functionality for admin interactions
-
-### 11. Chatbot Integration
-
-- [ ] Integrate chatbot (Deepseek or Gemini) for enhanced user support
-
-### 12. Social Login
-
-- [ ] Implement Google and GitHub login functionalities for ease of access
-
-### 13. Notification System
-
-- [ ] Add toaster notifications for important events and actions
-
-### 14. Interface Enhancement
-
-- [ ] Resolve interface issues for next-auth for better user experience
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests to help improve the project. You can also DM me on [Twitter](https://x.com/amaan8429) to collaborate on this project or future projects.
+---

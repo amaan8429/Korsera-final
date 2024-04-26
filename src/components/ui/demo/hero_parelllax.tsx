@@ -8,78 +8,78 @@ export function HeroParallaxDemo() {
 export const products = [
   {
     title: "Open Source",
-    link: "https://javascriptmastery.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
   },
   {
     title: "Build Vercel Clone",
-    link: "https://cursor.so",
-    thumbnail: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    link: "https://korsera-final.vercel.app/",
+    thumbnail: "https://img.youtube.com/vi/AHtSIP-pRL4/hqdefault.jpg",
   },
   {
     title: "Next.js Mastery",
-    link: "https://userogue.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://img.youtube.com/vi/wm5gMKuwSYk/mqdefault.jpg",
   },
   {
     title: "Open Source",
-    link: "https://javascriptmastery.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
   },
   {
     title: "Build Vercel Clone",
-    link: "https://cursor.so",
-    thumbnail: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    link: "https://korsera-final.vercel.app/",
+    thumbnail: "https://img.youtube.com/vi/AHtSIP-pRL4/hqdefault.jpg",
   },
   {
     title: "Next.js Mastery",
-    link: "https://userogue.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://img.youtube.com/vi/wm5gMKuwSYk/mqdefault.jpg",
   },
 
   {
     title: "Open Source",
-    link: "https://javascriptmastery.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
   },
   {
     title: "Build Vercel Clone",
-    link: "https://cursor.so",
-    thumbnail: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    link: "https://korsera-final.vercel.app/",
+    thumbnail: "https://img.youtube.com/vi/AHtSIP-pRL4/hqdefault.jpg",
   },
   {
     title: "Next.js Mastery",
-    link: "https://userogue.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://img.youtube.com/vi/wm5gMKuwSYk/mqdefault.jpg",
   },
   {
     title: "Open Source",
-    link: "https://javascriptmastery.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
   },
   {
     title: "Build Vercel Clone",
-    link: "https://cursor.so",
-    thumbnail: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    link: "https://korsera-final.vercel.app/",
+    thumbnail: "https://img.youtube.com/vi/AHtSIP-pRL4/hqdefault.jpg",
   },
   {
     title: "Next.js Mastery",
-    link: "https://userogue.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://img.youtube.com/vi/wm5gMKuwSYk/mqdefault.jpg",
   },
   {
     title: "Open Source",
-    link: "https://javascriptmastery.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
   },
   {
     title: "Build Vercel Clone",
-    link: "https://cursor.so",
-    thumbnail: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    link: "https://korsera-final.vercel.app/",
+    thumbnail: "https://img.youtube.com/vi/AHtSIP-pRL4/hqdefault.jpg",
   },
   {
     title: "Next.js Mastery",
-    link: "https://userogue.com",
+    link: "https://korsera-final.vercel.app/",
     thumbnail: "https://img.youtube.com/vi/wm5gMKuwSYk/mqdefault.jpg",
   },
 ];

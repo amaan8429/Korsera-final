@@ -33,10 +33,10 @@ export function TypewriterEffectSmoothDemo() {
       <TypewriterEffectSmooth words={words} />
       <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 space-x-0 md:space-x-4">
         <button className="w-40 h-10 rounded-xl bg-primary text-primary-foreground text-md">
-          Join now
+          <a href="https://korsera-final.vercel.app/register">Join Now!</a>
         </button>
         <button className="w-40 h-10 rounded-xl bg-white text-black text-md">
-          Login
+          <a href="https://korsera-final.vercel.app/login">Login</a>
         </button>
       </div>
     </div>

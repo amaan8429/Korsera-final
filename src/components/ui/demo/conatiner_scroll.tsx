@@ -32,7 +32,25 @@ export const users = [
   {
     name: "Sarah Singh",
     designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
+    badge: "Mentor",
+  },
+  {
+    name: "John Doe",
+    designation: "Software Engineer, Tech Corp",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
+    badge: "Mentor",
+  },
+  {
+    name: "Manu Arora",
+    designation: "Founder, Algochurn",
+    image: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
+    badge: "Mentor",
+  },
+  {
+    name: "Sarah Singh",
+    designation: "Founder, Sarah's Kitchen",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
     badge: "Mentor",
   },
   {
@@ -50,7 +68,7 @@ export const users = [
   {
     name: "Sarah Singh",
     designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
     badge: "Mentor",
   },
   {
@@ -68,7 +86,7 @@ export const users = [
   {
     name: "Sarah Singh",
     designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
     badge: "Mentor",
   },
   {
@@ -86,7 +104,7 @@ export const users = [
   {
     name: "Sarah Singh",
     designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
     badge: "Mentor",
   },
   {
@@ -104,7 +122,7 @@ export const users = [
   {
     name: "Sarah Singh",
     designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
     badge: "Mentor",
   },
   {
@@ -122,25 +140,7 @@ export const users = [
   {
     name: "Sarah Singh",
     designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
-    badge: "Mentor",
-  },
-  {
-    name: "John Doe",
-    designation: "Software Engineer, Tech Corp",
-    image: "https://img.youtube.com/vi/wm5gMKuwSYk/mqdefault.jpg",
-    badge: "Mentor",
-  },
-  {
-    name: "Manu Arora",
-    designation: "Founder, Algochurn",
-    image: "https://i3.ytimg.com/vi/o2CSJYXJBpc/hqdefault.jpg",
-    badge: "Mentor",
-  },
-  {
-    name: "Sarah Singh",
-    designation: "Founder, Sarah's Kitchen",
-    image: "https://img.youtube.com/vi/c8_tafixiAs/mqdefault.jpg",
+    image: "https://img.youtube.com/vi/AHtSIP-pRL4/default.jpg",
     badge: "Mentor",
   },
 ];
