@@ -39,8 +39,9 @@ export default function AdminAppbar({ name }: { name: string }) {
           <Button
             variant="default"
             onClick={() => {
-              router.push("/");
-              signOut();
+              signOut({
+                callbackUrl: "/",
+              });
             }}
           >
             Logout
