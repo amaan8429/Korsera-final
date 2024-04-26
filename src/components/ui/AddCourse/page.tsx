@@ -120,7 +120,7 @@ export default function AddCourseComponent({
             <Grid item xs={12}>
               <TextField
                 fullWidth
-                label="ImageLink"
+                label="Thumbnail Image Link"
                 variant="outlined"
                 multiline
                 rows={3}
@@ -136,7 +136,7 @@ export default function AddCourseComponent({
                     onChange={(e) => setPublished(e.target.checked)}
                   />
                 }
-                label="Published"
+                label="Published (Publish the course to the users or save as draft)"
               />
             </Grid>
             <Grid item xs={12}>

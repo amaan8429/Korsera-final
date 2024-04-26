@@ -75,6 +75,8 @@ export default function EditCourseComponet({
     console.log("responsefromedit", responsefromedit);
     if (responsefromedit.status === 200) {
       console.log("Course Edited Successfully");
+      alert("Course Edited Successfully");
+      router.push("/ad/all_courses");
     }
   };
 
@@ -119,7 +121,7 @@ export default function EditCourseComponet({
             <Grid item xs={12}>
               <TextField
                 fullWidth
-                label="ImageLink"
+                label="Thumbnail Image Link"
                 variant="outlined"
                 multiline
                 rows={3}
@@ -135,7 +137,7 @@ export default function EditCourseComponet({
                     onChange={(e) => setPublished(e.target.checked)}
                   />
                 }
-                label="Published"
+                label="Published (Publish the course to the users or save as draft)"
               />
             </Grid>
             <Grid item xs={12}>
